@@ -20,7 +20,7 @@ Make sure you have the following custom cards installed via [HACS](https://hacs.
 
 ### 1. Create Folder
 
-Create a `lovehub` folder in your Home Assistant top-level directory, and add the `power_ui` folder which contains the dummy sensor files.
+Create a `lovehub` folder in your Home Assistant top-level directory, and add the `ha-power-view-main` folder which contains the dummy sensor files.
 
 ```plaintext
 homeassistant/
@@ -58,7 +58,7 @@ Then paste in the contents of `power_ui_view.yaml`.
 
 ### 4. Restart Home Assistant
 
-Restart your Home Assistant instance to apply the changes.
+Restart Home Assistant to apply the changes.
 
 ---
 
